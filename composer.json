@@ -7,6 +7,7 @@
         "firebase",
         "google"
     ],
+    "minimum-stability": "dev",
     "homepage": "https://github.com/AguinaldoAranda/firestore-php",
     "license": "MIT",
     "authors": [
