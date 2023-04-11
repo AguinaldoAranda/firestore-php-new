@@ -1,5 +1,9 @@
 # Firestore Client for PHP
 
+Forked from https://github.com/ahsankhatri/firestore-php
+
+Updated Guzzle to version 7.2
+
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/ahsankhatri/firestore-php.svg?style=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
 [![Total Downloads](https://img.shields.io/packagist/dt/ahsankhatri/firestore-php.svg?style=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
 [![License](https://poser.pugx.org/ahsankhatri/firestore-php/license?format=flat-square)](https://packagist.org/packages/ahsankhatri/firestore-php)
@@ -17,14 +21,14 @@ This package is totally based on [Firestore REST API](https://firebase.google.co
 You can install the package via composer:
 
 ```bash
-composer require ahsankhatri/firestore-php
+composer require aguinaldoaranda/firestore-php-new
 ```
 
 or install it by adding it to `composer.json` then run `composer update`
 
 ```javascript
 "require": {
-    "ahsankhatri/firestore-php": "^2.0",
+    "aguinaldoaranda/firestore-php-new",
 }
 ```
 
